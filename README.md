@@ -1,4 +1,4 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+Earthquake Analysis using Leaflet 
 
 ## Background
 
