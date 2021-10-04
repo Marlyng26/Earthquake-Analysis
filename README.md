@@ -52,4 +52,3 @@ Your first task is to visualize an earthquake data set.
 
 - - -
 
-For this analysis, innovation and time managment was required. Hours of trying to get the code to work was not helping. Analyst needed to redocumentation and rethink possibilities why code was not working properly. After hours of rebuggging, analyst realized there was an error in the JS file. Attention to detail was key for the success of the analysis. 
